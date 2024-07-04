@@ -1,4 +1,7 @@
-pip3 install -r requirements.txt
+pip3 install langchain-core
+
+pip3 install langchain_openai 
+
 python3 main.py
 
 
